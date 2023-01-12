@@ -35,6 +35,13 @@ body {
     font-size: 1em;
 }
 
+.slogon{
+    padding-bottom: 3em;
+    padding-top: 1em;
+    font-size:1em;
+    color:rgb(128, 141, 145);
+}
+
 img.img-logo {
     height: auto; 
     width: 11em;
